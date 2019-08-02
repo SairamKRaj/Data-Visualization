@@ -1,0 +1,2 @@
+# Data-Visualization
+A core aspect of Business Intelligence, Data Engineering and Analytics is visualization. It's importance is not limited to only deriving insights of data but can also be utilized to estimate the quality of data, identify incomplete, imbalanced and dirty data and helps in cleaning it and can be used to in predictive analytics to help making business decisions and strategic planning. My data passion for data visualization enthralled me to explore Python, Matplotlib, Seaborn and Tableau for Data Visualization techniques..  
