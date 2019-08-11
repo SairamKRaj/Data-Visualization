@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>HW3</name>
+      <visibility>0</visibility>
+        <open>1</open>
+      <Style id="z1">
+      <IconStyle>
+        <Icon>
+          <href>http://www.google.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href>
+        </Icon>
+      </IconStyle>
+      </Style>
+      <Placemark>
+        <name>OHE </name>
+          <styleUrl>#z1</styleUrl>
+            <Point>
+              <coordinates>-118.28943,34.020872,0</coordinates>
+            </Point>
+      </Placemark>
+      <Placemark><styleUrl>#point_style</styleUrl><Point><coordinates>-118.28968,34.023701,100</coordinates></Point></Placemark>
+      <Placemark><styleUrl>#point_style</styleUrl><Point><coordinates>-118.289733319,34.0237023777,100</coordinates></Point></Placemark>
+      <Placemark><styleUrl>#point_style</styleUrl><Point><coordinates>-118.289786551,34.0237065095,100</coordinates></Point></Placemark>
+      <Placemark><styleUrl>#point_style</styleUrl><Point><coordinates>-118.289839609,34.0237133917,100</coordinates></Point></Placemark>
+      <Placemark><styleUrl>#point_style</styleUrl><Point><coordinates>-118.289892408,34.0237230183,100</coordinates></Point></Placemark>
+      <Placemark><styleUrl>#point_style</styleUrl><Point><coordinates>-118.28994486,34.0237353807,100</coordinates></Point></Placemark>
+      <Placemark><styleUrl>#point_style</styleUrl><Point><coordinates>-118.289996879,34.0237504679,100</coordinates></Point></Placemark>
+      <Placemark><styleUrl>#point_style</styleUrl><Point><coordinates>-118.29004838,34.0237682665,100</coordinates></Point></Placemark>
+      <Placemark><styleUrl>#point_style</styleUrl><Point><coordinates>-118.290099277,34.0237887606,100</coordinates></Point></Placemark>
+      <Placemark><styleUrl>#point_style</styleUrl><Point><coordinates>-118.290149485,34.023811932,100</coordinates></Point></Placemark>
+  </Document>
+</kml>
