@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+
+<!--DISJOIN condition = “TRUE”:-->
+
+<Document>
+  <Style id="z1">
+    <IconStyle>
+      <Icon>
+        <href>http://www.google.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="polygonStyle">
+    <PolyStyle>
+      <color>501400F0</color>
+    </PolyStyle>
+  </Style>
+  <Placemark>
+    <styleUrl>#polygonStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -118.282983,34.031143
+              -118.280984,34.033719
+              -118.283735,34.035441
+              -118.283520,34.034662
+              -118.283805,34.034148
+              -118.282983,34.031143
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Style id="polygonStyle">
+      <PolyStyle>
+        <color>501400F0</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+    <styleUrl>#polygonStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -118.273153,34.028614
+              -118.277695,34.031396
+              -118.279541,34.033416
+              -118.282058,34.030543
+              -118.278749,34.035146
+              -118.273153,34.028614
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark><name>875W 23RD St LA</name>
+      <styleUrl>#z1</styleUrl><Point><coordinates>-118.279541,34.033416</coordinates></Point>
+    </Placemark>
+    <Placemark><name>23RD St Cafe</name>
+      <styleUrl>#z1</styleUrl><Point><coordinates>-118.280984,34.033719</coordinates></Point>
+    </Placemark>
+    <Placemark><name>PapaJohnsHoover</name>
+      <styleUrl>#z1</styleUrl><Point><coordinates>-118.283735,34.035441</coordinates></Point>
+    </Placemark>
+    <Placemark><name>Lorenzo</name>
+      <styleUrl>#z1</styleUrl><Point><coordinates>-118.273153,34.028614</coordinates></Point>
+    </Placemark>
+    <Placemark><name>SaintMaryDoheny</name>
+      <styleUrl>#z1</styleUrl><Point><coordinates>-118.277695,34.031396</coordinates></Point>
+    </Placemark>
+    <Placemark><name>AoL Foundation</name>
+      <styleUrl>#z1</styleUrl><Point><coordinates>-118.282983,34.031143</coordinates></Point>
+    </Placemark>
+    <Placemark><name>USCFoundersAPT</name>
+      <styleUrl>#z1</styleUrl><Point><coordinates>-118.282058,34.030543</coordinates></Point>
+    </Placemark>
+    <Placemark><name>Norwood Ele School</name>
+      <styleUrl>#z1</styleUrl><Point><coordinates>-118.278749,34.035146</coordinates></Point>
+    </Placemark>
+    <Placemark><name>NaturesBrewCafe</name>
+      <styleUrl>#z1</styleUrl><Point><coordinates>-118.283520,34.034662</coordinates></Point>
+    </Placemark>
+    <Placemark><name>PetesBurger</name>
+      <styleUrl>#z1</styleUrl>
+    <Point>
+      <coordinates>-118.283805,34.034148</coordinates>
+    </Point>
+    </Placemark>
+  </Document>
+  </kml>
